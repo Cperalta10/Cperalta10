@@ -26,11 +26,11 @@ Whether it's a project, chat, or job opportunity, I would love to hear from you.
 <br></br>
 <br></br>
 
-### Connect with me:
+<!-- ### Connect with me:
 
 ### [LinkedIn]
 
-[linkedin]: www.linkedin.com/in/christopher-peralta-profile
+[linkedin]: www.linkedin.com/in/christopher-peralta-profile -->
 
 <!--
 <!-- ### [Portfolio] -->
